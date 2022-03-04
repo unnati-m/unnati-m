@@ -1,13 +1,6 @@
 ### Hi there 👋
-
-<!--
-**unnati-m/unnati-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on different projects including web dev and AI
-- 🌱 I’m impassioned about learning new technologies
-- 🤔 I’m looking for help with backend
-- 📫 How to reach me: https://www.linkedin.com/in/unnati-mishra-a74a2b1ab/
-.
--->
+- :zap: I am a CSE student drom S.R.M University
+- 🌱 I’m addicted to learning and growing every day
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
+- 📫 How to find me: 
+  - :office: [LinkedIn](https://www.linkedin.com/in/unnati-mishra-a74a2b1ab/)
